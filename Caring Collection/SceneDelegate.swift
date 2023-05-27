@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Caring Collection
 //
-//  Created by Sergei Semko on 5/25/23.
+//  Created by Стас Шорохов on 5/25/23.
 //
 
 import UIKit
